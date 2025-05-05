@@ -50,3 +50,18 @@ Design Tools: Figma for UI/UX design
 
 ### Importance of User-Friendly Design in a Booking System
 A user-friendly design is critical in a booking system because it directly affects conversion rates, user satisfaction, and trust. Intuitive navigation reduces user frustration, while clear visuals and feedback guide users through the process smoothly. Mobile responsiveness ensures accessibility for a broad audience, and fast performance minimizes abandonment during key actions like searching or paying. By focusing on user-centered design, we create a seamless experience that encourages repeat usage and builds customer loyalty.
+
+### Color Styles
+- **Primary Color**: `#FF5A5F` (used for buttons, highlights, and primary actions)
+- **Secondary Color**: `#008489` (used for accents and secondary actions)
+- **Background Color**: `#FFFFFF` (used as the main page background)
+- **Text Color**: `#222222` (used for primary text and headings)
+- **Secondary Text Color**: `#717171` (used for supporting or less prominent text)
+
+### Typography
+- **Primary Font**: Circular, Medium (500), 16px (used for most body text and UI elements)
+- **Headings**: Circular, Bold (700), 24px–32px (used for section titles and prominent headings)
+- **Secondary Text**: Circular, Book (400), 14px (used for descriptions, labels, and helper text)
+
+### Importance of Identifying Design Properties of a Mockup
+Identifying the design properties of a mockup (such as colors, typography, and spacing) ensures that the final product stays consistent with the intended visual and user experience. It allows developers and designers to work from a shared reference, reducing miscommunication and rework. Consistency in design builds trust with users, reinforces brand identity, and creates a polished, professional interface. By aligning closely with mockup specifications, we ensure the app delivers both functional and aesthetic excellence.
