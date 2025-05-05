@@ -27,3 +27,26 @@ Design Tools: Figma for UI/UX design
 | **Product Owner**    | Defines product requirements, prioritizes features in the backlog, provides clarity on business goals, and represents stakeholders throughout the project.     |
 | **Scrum Master**     | Facilitates agile ceremonies (standups, sprint planning, retrospectives), removes blockers for the team, fosters a productive agile environment, and coaches the team on agile best practices. |
 
+**UI/UX Design Planning**
+### Design Goals
+- Create an **intuitive booking flow** that allows users to navigate easily from search to checkout.
+- Maintain **visual consistency** across all pages with a cohesive design system.
+- Ensure **fast loading times** to reduce user drop-off and enhance performance.
+- Prioritize **mobile responsiveness** so users on all devices have an optimal experience.
+
+### Key Features
+- **Property search and filtering**: Allow users to quickly find properties that match their preferences.
+- **Detailed property viewing**: Provide comprehensive information, images, and amenities for each property.
+- **Secure checkout process**: Enable users to complete bookings confidently with secure payment flows.
+- **User authentication**: Support account creation, login, and profile management for a personalized experience.
+
+### Primary Pages Overview
+
+| **Page**                   | **Description**                                                                                                                                         |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Property Listing View**   | Displays a grid or list of available properties with filters for price, location, and amenities; users can browse and narrow down their options easily. |
+| **Listing Detailed View**   | Shows full details of a selected property, including images, descriptions, reviews, and booking options, giving users the confidence to make a decision. |
+| **Simple Checkout View**    | Provides a streamlined booking form where users review selections, enter payment details, and complete the booking securely.                           |
+
+### Importance of User-Friendly Design in a Booking System
+A user-friendly design is critical in a booking system because it directly affects conversion rates, user satisfaction, and trust. Intuitive navigation reduces user frustration, while clear visuals and feedback guide users through the process smoothly. Mobile responsiveness ensures accessibility for a broad audience, and fast performance minimizes abandonment during key actions like searching or paying. By focusing on user-centered design, we create a seamless experience that encourages repeat usage and builds customer loyalty.
