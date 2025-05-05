@@ -65,3 +65,22 @@ A user-friendly design is critical in a booking system because it directly affec
 
 ### Importance of Identifying Design Properties of a Mockup
 Identifying the design properties of a mockup (such as colors, typography, and spacing) ensures that the final product stays consistent with the intended visual and user experience. It allows developers and designers to work from a shared reference, reducing miscommunication and rework. Consistency in design builds trust with users, reinforces brand identity, and creates a polished, professional interface. By aligning closely with mockup specifications, we ensure the app delivers both functional and aesthetic excellence.
+
+### UI Component Patterns
+
+### Planned Components
+
+- **Navbar**
+  - Includes the site logo, a search bar for property searches, user navigation (login/profile), and a responsive menu for mobile devices.
+  - Designed to provide easy access to key navigation features and adapt seamlessly across screen sizes.
+
+- **Property Card**
+  - Displays a property image, key details such as price, location, and user rating, and includes a favorite button to save listings.
+  - Built with a responsive layout to ensure clean presentation on both desktop and mobile, with a focus on visual clarity and engagement.
+
+- **Footer**
+  - Contains site navigation links (such as About, Contact, Help), company information, social media links, and copyright.
+  - Designed to be lightweight yet informative, anchoring the user experience at the bottom of every page.
+
+### Design Approach
+Each component will be created with **reusability** and **consistency** in mind, following design system principles to ensure a unified look and feel across the entire application. This approach improves maintainability, speeds up development, and enhances the overall user experience.
